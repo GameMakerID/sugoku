@@ -1,4 +1,4 @@
-module sugoku
+module out
 
 go 1.19
 
